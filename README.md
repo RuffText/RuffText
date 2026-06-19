@@ -32,13 +32,13 @@ I'm a 13-year-old student who started learning to code at the beginning of 2026.
 
 ### 📂 Featured Projects
 
-- **[My Portfolio Website](https://github.com/yourusername/portfolio)**  
+- **[My Portfolio Website](https://github.com/RuffText/portfolio)**  
   Responsive personal website built with HTML & CSS
 
-- **[Linux Commands Cheat Sheet](https://github.com/yourusername/linux-cheatsheet)**  
+- **[Linux Commands Cheat Sheet](https://github.com/RuffText/linux-cheatsheet)**  
   My personal collection of useful Linux commands
 
-- **[Bash Automation Scripts](https://github.com/yourusername/bash-scripts)**  
+- **[Bash Automation Scripts](https://github.com/RuffText/bash-scripts)**  
   Useful scripts for daily tasks and backups
 
 *(More projects coming soon as I learn Docker, CI/CD, and Kubernetes!)*
@@ -47,9 +47,9 @@ I'm a 13-year-old student who started learning to code at the beginning of 2026.
 
 ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuffText&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuffText&layout=compact&theme=radical)
 
 ---
 
@@ -65,8 +65,8 @@ I'm a 13-year-old student who started learning to code at the beginning of 2026.
 
 ### 📫 Let's Connect
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **GitHub**: [@RuffText](https://github.com/RuffText)
+- **Email**: [karki.subastik@gmail.com](mailto:karki.subastik@gmail.com)
 
 ---
 
