@@ -2,7 +2,7 @@
 
 **Aspiring DevOps Engineer & Frontend Developer** from Nepal 🇳🇵
 
-I'm a 13-year-old student who started learning to code at the beginning of 2026. My goal is to become a skilled DevOps Engineer while also building beautiful frontend applications.
+I'm a 13-year-old student who started learning to code at the beginning of 2026. My goal is to become a skilled DevOps Engineer.
 
 ---
 
@@ -27,21 +27,6 @@ I'm a 13-year-old student who started learning to code at the beginning of 2026.
 - Docker & Containerization
 - Networking (CCNA)
 - DevOps tools & practices
-
----
-
-### 📂 Featured Projects
-
-- **[My Portfolio Website](https://github.com/RuffText/portfolio)**  
-  Responsive personal website built with HTML & CSS
-
-- **[Linux Commands Cheat Sheet](https://github.com/RuffText/linux-cheatsheet)**  
-  My personal collection of useful Linux commands
-
-- **[Bash Automation Scripts](https://github.com/RuffText/bash-scripts)**  
-  Useful scripts for daily tasks and backups
-
-*(More projects coming soon as I learn Docker, CI/CD, and Kubernetes!)*
 
 ---
 
@@ -74,5 +59,3 @@ I'm a 13-year-old student who started learning to code at the beginning of 2026.
 I'm just starting my journey, but I'm consistent and passionate. Feel free to explore my repositories and give feedback! 🚀
 
 ---
-
-**"Code every day. Improve every day."**
