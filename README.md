@@ -22,19 +22,6 @@ I'm a 13-year-old student who started learning to code at the beginning of 2026.
 ### 🌱 Currently Learning
 
 - Advanced Linux & Bash Scripting
-- Git & GitHub workflows
-- Python for automation
-- Docker & Containerization
-- Networking (CCNA)
-- DevOps tools & practices
-
----
-
-### 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuffText&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuffText&layout=compact&theme=radical)
 
 ---
 
